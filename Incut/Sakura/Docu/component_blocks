@@ -5,3 +5,30 @@ power supply small	+5V 3.0A | +12V 0.6A
 stepper drivers x2
 controller board
 hw_key
+
+-----
+ BOM
+----
+## http://www.ebay.com/cln/jarshvor/sakura2/217716012015
+__
+
+CO2 laser tube + 3dprint holders
+mirror assembly and noozle
+wind pipe and tubing for blow
+
+HV laser power supply (PWM)
+XY+Z ++ stepper motors (Z maybe not stepper¿)
+stepper drivers
+
+smoothie (LCD)
+
+power supply
+
+CO2 pump
+air pump for blow
+water cooling pump
+air extractor + filter
+
+chassis + acrylic window
+honey bed
+
