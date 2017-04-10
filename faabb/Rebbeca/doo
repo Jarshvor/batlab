@@ -1,13 +1,15 @@
 //*
 Pre-fase: Analizar la tarjeta actual para saber su modelo y especificaciones.
 {2 métodos para que Rebbeca trabaje:
-A001_Introducir via USB= ( fichero .dxf con ajuste de plumas y colores + paramatros de la "consola de a pie" )
+A001_Introducir via COM= ( fichero .dxf con ajuste de plumas y colores + paramatros de la "consola de a pie" )
                        = ( fichero gcode del mismo .dxf )
-                       = ( otros formatos exportado del LaserSoft )
+                       = ( otros formatos exportado del inkscape )
                        
 B001_Vía ethernet= ( parser vía smothyboard a la tarjeta actual )
                  = ( otro soft. https://wiki.nottinghack.org.uk/wiki/Laser_cutter/LaserCut/Install )
                  = ( preparar hardware de plug&play para controlar desde la smothyboard sin la otra controladora )
 Joblog renderus 21:15 pm
+intended for do same with Sakura
+Halt & burn
 
                  
